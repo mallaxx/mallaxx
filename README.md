@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hello World! <img src="https://github.com/mallaxx/mallaxx/blob/main/waving_hi.gif" height=30>
 
-<!--
-**mallaxx/mallaxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Hisham Hafeez,
+<a href="https://www.hafeezh.com" target="_blank">My Website</a>
+<br>
+<a href="mailto:hafeez_h@outlook.com">My Email ID</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mallaxx&show_icons=true&locale=en&theme=dark" alt="Hafeezh" /></p>
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mallaxx.mallaxx)
