@@ -1,6 +1,6 @@
 # Hello World! <img src="https://github.com/mallaxx/mallaxx/blob/main/waving_hi.gif" height=5 width=5>
 
-### I am Hisham Hafeez, an undergrad student at <a href="https://www.mun.ca" target="_blank">Memorial University</a> 
+### I am Hisham Hafeez, an undergrad student at <a href="https://www.mun.ca", target="_blank">Memorial University</a> 
 <a href="https://www.hafeezh.com" target="_blank">My Website</a>
 <br>
 <a href="mailto:hafeez_h@outlook.com">My Email ID</a>
