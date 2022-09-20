@@ -1,4 +1,4 @@
-# Hello World! <img src="https://github.com/mallaxx/mallaxx/blob/main/waving_hi.gif" height=100 width=80>
+# Hello World! <img src="https://github.com/mallaxx/mallaxx/blob/main/waving_hi.gif" height=80 width=60>
 
 ### I am Hisham Hafeez, an undergrad student at <a href="https://www.mun.ca" target="_blank">Memorial University</a> 
 <a href="https://www.hafeezh.com" target="_blank">My Website</a>
